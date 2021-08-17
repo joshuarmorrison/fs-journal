@@ -1,54 +1,17 @@
-# Introduction
+# Gettin Git
 
-> Brief Synopsis with [article link](https://codeworksacademy.com/fs-student-guide/)
+## Answer the following questions
 
-State and answer questions in paragraph format
+## In your own words, why do we use Git?
 
+We use Git because it allows us to work with multiple developers on code without overlapping or messing up each other's code due to having access to our own local server, then uploading our code to a central server to share with other developers.
 
----
+## What are the benefits of having multiple branches?
 
-***Markdown Guide***
+With multiple branches it allows you to have several parallel developments at once.
 
-# Every file starts with a heading
+## What is the difference between Git and GitHub
 
-## Subheadings are searchable
+Git is a control system that allows you keep track of your code, whereas GitHub is a place for you to store your repositories and keep them in one place.
 
-some plain text and a link: [CodeWorks Academy](https://codeworksacademy.com)
-
-a line break uses three hyphens
-
----
-
-
-below is an img 
-
-![codeworks-logo](https://codeworks.blob.core.windows.net/public/assets/img/fs-logo.png)
-
-
-*itallics*, **bold**, ***bold-itallics*** 
-
-Here is a table
-
-|  id  |  name  |  phone         |
-|------|--------|----------------|
-|  10  |  Jim   |  111-222-3333  |
-|  10  |  Bob   |  222-333-4444  |
-|  10  |  Joe   |  333-444-5555  |
-
-
-code blocks
-
-```javascript{3,7}
-function democode(){
-    // NOTE this is a comment
-    let message = 'this line is highlighted'
-    return message + '!'
-}
-
-const executed = democode() // also highlighted
-```
-
-
-<section>
-    <kbd style="color:purple">HTML</kbd> is supported as well
-</section>
+#
