@@ -11,3 +11,5 @@ Specificity is used to rule one item if multiple rules are targeting the same el
 ## What problems do you think you could run into if you over-utilized the !important feature?
 
 If you over use important too many times you could be declaring multiple rules with the same feature cancelling each other out.
+
+https://joshuarmorrison.github.io/resume/
