@@ -1,4 +1,6 @@
-# What is Scope ?
+# JavaScript things
+
+# What is Scope?
 
 ## Scope is where the variable is located
 
