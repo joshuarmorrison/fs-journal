@@ -1,5 +1,7 @@
 # Dysfunctionally functional
 
+https://joshuarmorrison.github.io/js-test/
+
 # What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
 
 ## The three ways to write a function are: the Function Declaration, Function Expressions, and Arrow functions expression. 
