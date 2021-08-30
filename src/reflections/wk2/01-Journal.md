@@ -1,5 +1,7 @@
 # JavaScript things
 
+https://joshuarmorrison.github.io/js-test/
+
 # What is Scope?
 
 ## Scope is where the variable is located
