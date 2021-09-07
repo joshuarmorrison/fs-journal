@@ -1,6 +1,6 @@
 ## Encapsulation capulated
 
-https://joshuarmorrison.github.io/zoo-keeper/
+https://joshuarmorrison.github.io/vendingmachine/
 
 ## What is the purpose of Encapsulation?
 
